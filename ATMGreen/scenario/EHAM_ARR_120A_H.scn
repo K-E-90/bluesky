@@ -1,0 +1,8 @@
+00:00:00.00>%0 addwpt naphold1 16000
+00:00:00.00>%0 addwpt naphold2 16000
+00:00:00.00>%0 addwpt naphold3 16000
+00:00:00.00>%0 addwpt naphold4 16000
+00:00:00.00>%0 addwpt naphold5 16000
+00:00:00.00>%0 addwpt naphold6
+00:00:00.00>%0 addwpt NAPRO_EHAM 
+00:00:00.00>%0 addwpt AMA51

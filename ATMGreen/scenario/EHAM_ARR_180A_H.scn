@@ -1,0 +1,7 @@
+00:00:00.00>%0 addwpt luthol1 16000
+00:00:00.00>%0 addwpt luthol2 16000
+00:00:00.00>%0 addwpt luthol3 16000
+00:00:00.00>%0 addwpt luthol4 16000
+00:00:00.00>%0 addwpt luthol5
+00:00:00.00>%0 addwpt NAPRO_EHAM
+00:00:00.00>%0 addwpt AMA51
