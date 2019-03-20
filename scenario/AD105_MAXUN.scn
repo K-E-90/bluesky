@@ -2,8 +2,8 @@
 00:00:00.00>%0 addwpt AD101
 00:00:00.00>%0 addwpt AD102
 00:00:00.00>%0 addwpt AD103
-00:00:00.00>%0 addwpt AD104
-00:00:00.00>%0 addwpt AD105
-00:00:00.00>%0 addwpt AD106
-00:00:00.00>%0 addwpt AD107
-00:00:00.00>%0 addwpt MAXUN
+00:00:00.00>%0 addwpt AD104 
+00:00:00.00>%0 addwpt AD105 12000
+00:00:00.00>%0 addwpt AD106 12000
+00:00:00.00>%0 addwpt AD107 
+00:00:00.00>%0 addwpt MAXUN 
