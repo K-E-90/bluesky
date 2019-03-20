@@ -82,6 +82,15 @@
 00:00:00.00>polyline EHAM_ARR_120A_H naphold1 naphold2 naphold3 naphold4 naphold5 naphold6
 00:00:00.00>color EHAM_ARR_120A_H yellow
 
+00:00:00.00>defwpt luthol1 51.27464,5.174061
+00:00:00.00>defwpt luthol2 51.380926,5.177388
+00:00:00.00>defwpt luthol3 51.481,5.180716
+00:00:00.00>defwpt luthol4 51.576495,5.246312
+00:00:00.00>defwpt luthol5 51.628212,5.411103
+
+00:00:00.00>polyline EHAM_ARR_180A_H luthol1 luthol2 luthol3 luthol4 luthol5
+00:00:00.00>color EHAM_ARR_180A_H yellow
+
 00:00:00.00>polyline EHAM_ARR_330C_H NAVPI NAVP1 NAVP2 NAVP3 NAVP4 NAVP5 NAVP6 NAVP7 NAVP8 NAVP9 NAVP10 MOLIX_EHAM KOLAG_EHAM AMA31
 00:00:00.00>color EHAM_ARR_330C_H yellow
 
