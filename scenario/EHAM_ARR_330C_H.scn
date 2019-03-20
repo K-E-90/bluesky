@@ -1,15 +1,14 @@
-00:00:00.00>%0 spd 250
-00:00:00.00>%0 addwpt NAVPI
-00:00:00.00>%0 addwpt NAVP1
-00:00:00.00>%0 addwpt NAVP2
-00:00:00.00>%0 addwpt NAVP3
-00:00:00.00>%0 addwpt NAVP4
-00:00:00.00>%0 addwpt NAVP5
-00:00:00.00>%0 addwpt NAVP6
-00:00:00.00>%0 addwpt NAVP7
-00:00:00.00>%0 addwpt NAVP8
-00:00:00.00>%0 addwpt NAVP9
-00:00:00.00>%0 addwpt NAVP10
-00:00:00.00>%0 addwpt MOLIX_EHAM 
-00:00:00.00>%0 addwpt KOLAG_EHAM 
+#00:00:00.00>%0 addwpt NAVPI
+00:00:00.00>%0 addwpt NAVP1 FL200
+00:00:00.00>%0 addwpt NAVP2 FL170
+00:00:00.00>%0 addwpt NAVP3 FL145
+00:00:00.00>%0 addwpt NAVP4 FL120
+00:00:00.00>%0 addwpt NAVP5 FL90
+#00:00:00.00>%0 addwpt NAVP6
+#00:00:00.00>%0 addwpt NAVP7
+#00:00:00.00>%0 addwpt NAVP8
+#00:00:00.00>%0 addwpt NAVP9
+#00:00:00.00>%0 addwpt NAVP10
+00:00:00.00>%0 addwpt MOLIX_EHAM FL90
+00:00:00.00>%0 addwpt KOLAG_EHAM FL80
 00:00:00.00>%0 addwpt AMA31
